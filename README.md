@@ -10,3 +10,4 @@
 2. JS + CSS Clock
 3. Playing with CSS Variables and JS
 4. Array Cardio Day 1
+5. Flex Panels Image Gallery
