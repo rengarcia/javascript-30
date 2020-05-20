@@ -14,3 +14,4 @@
 6. Ajax Type Ahead
 7. Array Cardio Day 2
 8. Fun with HTML5 Canvas
+9. 14 Must Know Dev Tools Tricks
