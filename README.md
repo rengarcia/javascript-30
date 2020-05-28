@@ -17,3 +17,4 @@
 9. 14 Must Know Dev Tools Tricks
 10. Hold Shift And Checkboxes
 11. Custom Video Player
+12. Key Sequence Detection
