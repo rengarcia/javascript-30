@@ -18,3 +18,5 @@
 10. Hold Shift And Checkboxes
 11. Custom Video Player
 12. Key Sequence Detection
+13. Slide in on scroll
+14. Javascript References VS Copying
