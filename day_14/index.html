@@ -84,7 +84,7 @@
       console.clear();
       console.log(and);
 
-      const dev = Object.assign({}, and);
+      const dev = Object.assign({}, and); //only copy one level, no the othe level of the obj
 
       const dev2 = JSON.parse(JSON.stringify(and));
     </script>

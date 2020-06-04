@@ -20,3 +20,4 @@
 12. Key Sequence Detection
 13. Slide in on scroll
 14. Javascript References VS Copying
+15. LocalStorage
