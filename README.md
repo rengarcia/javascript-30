@@ -21,3 +21,5 @@
 13. Slide in on scroll
 14. Javascript References VS Copying
 15. LocalStorage
+16. Mouse Move Shadow
+17. Sort Without Articles
