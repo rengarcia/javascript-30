@@ -23,3 +23,4 @@
 15. LocalStorage
 16. Mouse Move Shadow
 17. Sort Without Articles
+18. Tally String Times with Reduce
