@@ -26,3 +26,4 @@
 18. Tally String Times with Reduce
 19. Webcam Fun
 20. Speech Detection
+21. Geolocation based Speedometer and Compass
